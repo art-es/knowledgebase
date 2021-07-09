@@ -10,3 +10,5 @@
 Settings > Service Accounts
 
 2. Press button `Generate new private key`
+
+[⬅️ Back](../README.md)
